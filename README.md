@@ -24,7 +24,8 @@ Throughout training, the model's performance is evaluated, and the best model is
 
 ## Deploying the app on streamlit
 Finally we load the saved model that we saved during training and then use streamlit to deploy out app. Now the app can generate scripts for any given prompt. 
-The process is shown in the script
+The working of the app is as follows
 
 
+![gbo](https://github.com/mishra-kunal1/The-Office-Script-Generator-using-LLM/assets/99056351/a0c66c29-ecc5-4dd1-b43d-0ed08a4b9fb6)
 
