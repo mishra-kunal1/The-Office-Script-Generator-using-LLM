@@ -27,6 +27,5 @@ Finally we load the saved model that we saved during training and then use strea
 The working of the app is as follows
 
 
-<img src="https://github.com/mishra-kunal1/The-Office-Script-Generator-using-LLM/assets/99056351/a0c66c29-ecc5-4dd1-b43d-0ed08a4b9fb6" alt="gbo" width="600" height="400">
-
+<img src="https://github.com/mishra-kunal1/The-Office-Script-Generator-using-LLM/assets/99056351/584c7d63-14b6-4f75-9d0f-ea8ee349fed9" alt="gbo" width="600" height="400">
 
